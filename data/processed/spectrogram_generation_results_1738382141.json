@@ -1,0 +1,74 @@
+{
+  "hann": {
+    "spectrograms_shape": [
+      8732,
+      513,
+      345
+    ],
+    "labels_shape": [
+      8732
+    ],
+    "spectrogram_file": "data/processed/hann_specs.npy",
+    "labels_file": "data/processed/hann_labels.npy",
+    "unique_classes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "hamming": {
+    "spectrograms_shape": [
+      8732,
+      513,
+      345
+    ],
+    "labels_shape": [
+      8732
+    ],
+    "spectrogram_file": "data/processed/hamming_specs.npy",
+    "labels_file": "data/processed/hamming_labels.npy",
+    "unique_classes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "rectangular": {
+    "spectrograms_shape": [
+      8732,
+      513,
+      345
+    ],
+    "labels_shape": [
+      8732
+    ],
+    "spectrogram_file": "data/processed/rectangular_specs.npy",
+    "labels_file": "data/processed/rectangular_labels.npy",
+    "unique_classes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
