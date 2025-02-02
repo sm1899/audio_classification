@@ -1,4 +1,3 @@
-```markdown
 # Audio Classification with UrbanSound8K Dataset
 
 ## Setup
@@ -8,7 +7,7 @@
 - CUDA-capable GPU (recommended)
 
 ```bash
-git clone https://github.com/yourusername/audio-classification.git
+git clone https://github.com/sm1899/audio-classification.git
 cd audio-classification
 pip install -r requirements.txt
 ```
